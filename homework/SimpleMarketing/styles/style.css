@@ -1,0 +1,67 @@
+
+body {
+	background-color: lightBlue;
+}
+
+#header {
+	background-color: pink;
+	height: 100px;
+	padding: 5px 5px 10px 5px;
+	margin: 10px 5px 10px 5px;
+}
+
+#top-left {
+	background-color: grey;
+	height: 300px;
+	width: 47%;
+	float: left;
+	padding: 5px 5px 10px 5px;
+	margin: 10px 5px 10px 5px;
+}
+
+#top-right {
+	background-color: lightgrey;
+	height: 300px;
+	width: 47%;
+	float: right;
+	padding: 5px 20px 10px 5px;
+	margin: 10px 5px 10px 5px;
+}
+
+#bottom-left {
+	background-color: DarkGrey;
+	float: left;
+    height: 300px;
+    width: 30%;
+    float: right;
+    padding: 5px 5px 10px 5px;
+    margin: 10px 21px 19px 5px;
+}
+
+#bottom-center {
+	background-color: LightGrey;
+	float: left;
+    height: 300px;
+    width: 30%;
+    float: right;
+    padding: 5px 5px 10px 5px;
+    margin: 10px 21px 19px 5px;
+}
+
+#bottom-right {
+	background-color: DarkGrey;
+	float: right;
+    height: 300px;
+    width: 30%;
+    float: right;
+    padding: 5px 5px 10px 5px;
+    margin: 10px 21px 19px 5px;
+}
+
+#footer {
+	background-color: pink;
+	height: 100px;
+	clear: both;
+	padding: 5px 5px 10px 5px;
+	margin: 10px 5px 10px 5px;
+}

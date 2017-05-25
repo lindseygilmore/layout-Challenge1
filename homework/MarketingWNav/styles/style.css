@@ -1,0 +1,83 @@
+
+body {
+	background-color: lightBlue;
+}
+
+h1 {
+	background-color: pink;
+	height: 100px;
+	width: 35%;
+	padding: 5px 5px 10px 5px;
+	margin: 10px 5px 10px 5px;
+	float: left;
+}
+
+nav {
+	height: 10px;
+	width: 60%;
+	left: 0px;
+	float: right;
+	padding: 0 auto;
+	margin: 0 auto;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0 auto;
+	margin: 0 auto;
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 14px;
+    padding: 55px;
+    background-color: DarkSalmon;
+    float: right;
+}
+
+#center {
+	background-color: black;
+	height: 300px;
+	width: 96%;
+	padding: 5px 20px 10px 5px;
+	margin: 10px 5px 10px 5px;
+	overflow: hidden;
+}
+
+#bottom-left {
+	background-color: DarkGrey;
+	float: left;
+    height: 200px;
+    width: 30%;
+    float: right;
+    padding: 5px 5px 10px 5px;
+    margin: 10px 21px 19px 5px;
+}
+
+#bottom-center {
+	background-color: LightGrey;
+	float: left;
+    height: 200px;
+    width: 30%;
+    float: right;
+    padding: 5px 5px 10px 5px;
+    margin: 10px 21px 19px 5px;
+}
+
+#bottom-right {
+	background-color: DarkGrey;
+	float: right;
+    height: 200px;
+    width: 30%;
+    float: right;
+    padding: 5px 5px 10px 5px;
+    margin: 10px 21px 19px 5px;
+}
+
+#footer {
+	background-color: pink;
+	height: 100px;
+	clear: both;
+	padding: 5px 5px 10px 5px;
+	margin: 10px 5px 10px 5px;
+}
